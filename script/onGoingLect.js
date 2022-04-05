@@ -1,7 +1,8 @@
 
 //This Function returns current  lecture 
+var lec;
 function onGoingLec(time,min){
-    var lec;
+    
     //For 1st lecture
     if (time>=9&&time<10) {
        lec="L1"; 

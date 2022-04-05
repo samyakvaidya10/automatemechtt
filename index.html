@@ -5,32 +5,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Lecture</title>
 </head>
 <body>
 
-    <h1 class="centre">MECHANICAL DEPARTMENT TIME TABLE</h1>
-    <h3 id="msg">Select Devision</h3>
+    <h1 class="centre">MECHANICAL DEPARTMENT ONGOING KECTURE</h1>
+    <h2 id="msg">Select Devision</h2>
 
-    <div>
-        <button id="a" onclick="divA()">A</button> 
-        <button id="b" onclick="divB()">B</button> 
-        <link rel="stylesheet" href="style.css">
+    <div  class="ctr">
+        <button class="btn" id="a" onclick="divA()">A</button> 
+        <button class="btn" id="b" onclick="divB()">B</button> 
 
     </div>
-    <div>
-        <h1 class="centre">Select class</h1>
-
-    <button onclick="getSE()"  >SE</button>
-    <button onclick="testButton()">TE</button>
-    <button>BE</button>
+    <div class="ctr">
+        <h2 class="centre">Select Class</h2>
+        <button class="btn" id="se" onclick="getSE()">SE</button>
+        <button class="btn" id="te" onclick="getTE()">TE</button>
+        <button class="btn" id="be" onclick="getBE()">BE</button>
+    </div  >
+    <div class="ctr">
+        <h1></h1>
+        <button onclick="main()"  >Show</button>
     </div>
-
  
     <h1 id="result" > </h1>
-    <h1 id="result1" > </h1>
+    <footer id="foot">By-Samyak Vaidya</footer>
+    <link rel="stylesheet" href="style.css">
+    
     <script src="script/onGoingLect.js"></script>
-    <script src="script/test.js"></script>
     <script src="script/main.js"></script>
     <script src="script/SEclass.js"></script>
     
