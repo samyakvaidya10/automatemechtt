@@ -1,0 +1,50 @@
+[
+    {
+        "L1": "PROJECT",
+        "L2": "PROJECT",
+        "L3": "PROJECT",
+        "L4": "PROJECT",
+        "L5": "PROJECT",
+        "L6": "PROJECT"
+    },
+    {
+        "L1": "BB1-EL-III(RBJ)(206)BB2-EE(SPA)(206)BB3-MSD(DVK)(106)",
+        "L2": "BB1-EL-III(RBJ)(206)BB2-EE(SPA)(206)BB3-MSD(DVK)(106)",
+        "L3": "OFF",
+        "L4": "OFF",
+        "L5": "MENTOR",
+        "L6": "MENTOR"
+    },
+    {
+        "L1": "EE (SPA) (202)",
+        "L2": "EL-IV (VVA) (202)",
+        "L3": "EL-III (RBJ) (202)",
+        "L4": "PROJECT",
+        "L5": "PROJECT",
+        "L6": "PROJECT"
+    },
+    {
+        "L1": "EL-IV (VVA) (202)",
+        "L2": "MSD (DVK) (202)",
+        "L3": "BB1-EE(SPA)(206)BB2-MSD(DVK)(206)BB4-EL-III(RBJ)(208)",
+        "L4": "BB1-EE(SPA)(206)BB2-MSD(DVK)(206)BB4-EL-III(RBJ)(208)",
+        "L5": "MESA",
+        "L6": "MESA"
+    },
+    {
+        "L1": "BB2-EL-III(RBJ)(208)BB3-EE(SPA)(206)BB4-MSD(DVK)(206)",
+        "L2": "BB2-EL-III(RBJ)(208)BB3-EE(SPA)(206)BB4-MSD(DVK)(206)",
+        "L3": "EL-III (RBJ) (201)",
+        "L4": "MSD (DVK) (201)",
+        "L5": "EE (SPA) (202)",
+        "L6": "EL-IV (VVA) (202)"
+    },
+    {
+        "L1": "BB1-MSD(DVK)(203)BB3-EL-III(RBJ)(208)BB4-EE(SPA)(206)",
+        "L2": "BB1-MSD(DVK)(203)BB3-EL-III(RBJ)(208)BB4-EE(SPA)(206)",
+        "L3": "MSD (DVK) (201)",
+        "L4": "EL-III (RBJ) (201",
+        "L5": "MSD (DVK) (202)",
+        "L6": "EE (SPA) (202)"
+    }
+]

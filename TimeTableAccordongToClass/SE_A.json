@@ -1,0 +1,52 @@
+[
+    
+    {
+        "L1": "EM-III (SDM) (101)",
+        "L2": "MP (PCS) (101)",
+        "L3": "SA1-EM-III (SDM) (101) SA2-KOM (ABK) (203) SA3-AT (AAK) (106) SA4-FM (SJS) (107)",
+        "L4": "SA1-EM-III (SDM) (101) SA2-KOM (ABK) (203) SA3-AT (AAK) (106) SA4-FM (SJS) (107)",
+        "L5": "KOM (ABK) (101)",
+        "L6": "AT (AAK) (101)"
+    },
+    {
+        "L1": "SA1-FM (SJS)(107) SA2-MS (PCS)(108) SA3-EM-III(SDM)(101) SA4-KOM (ABK)(203)",
+        "L2": "SA1-FM (SJS)(107) SA2-MS (PCS)(108) SA3-EM-III(SDM)(101) SA4-KOM (ABK)(203)",
+        "L3": "EM-III (SDM) (101) ",
+        "L4": "Off ",
+        "L5": "MENTOR ",
+        "L6": "MENTOR "
+    },
+    {
+        "L1": "PBL ",
+        "L2": "PBL ",
+        "L3": "PBL ",
+        "L4": "PBL ",
+        "L5": "PBL ",
+        "L6": "PBL "
+    },
+    {
+        "l1": "FM (SJS) (101)",
+        "l2": "KOM (ABK) (101)",
+        "l3": "SA1-MS (PCS)(108) SA2-EM-III (SDM)(101) SA3-KOM (ABK)(203) SA4-AT (AAK)(106)",
+        "l4": "SA1-MS (PCS)(108) SA2-EM-III (SDM)(101) SA3-KOM (ABK)(203) SA4-AT (AAK)(106)",
+        "l5": "MESA",
+        "l6": "MESA"
+    },
+    {
+        "l1": "SA1-KOM (ABK) (203) SA2-AT (AAK)(106)SA3-FM (SJS) (107) SA4-MS (PCS)(108)",
+        "l2": "SA1-KOM (ABK) (203) SA2-AT (AAK)(106)SA3-FM (SJS) (107) SA4-MS (PCS)(108)",
+        "l3": "MP (PCS) (101)",
+        "l4": "KOM (ABK) (101)",
+        "l5": "AT (AAK) (101)",
+        "l6": "FM (SJS) (101)"
+    },
+    {
+        "l1": "AT (AAK) (101)",
+        "l2": "EM-III (SDM) (101)",
+        "l3": "SA1-AT (AAK) (106) SA2- FM (SJS) (107) SA3-MS (PCS) (108) SA4-EM-III (SDM) (101)",
+        "l4": "SA1-AT (AAK) (106) SA2- FM (SJS) (107) SA3-MS (PCS) (108) SA4-EM-III (SDM) (101)",
+        "l5": "FM (SJS) (101)",
+        "l6": "MP (PCS) (101)"
+    }
+
+]

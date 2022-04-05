@@ -1,0 +1,50 @@
+[
+    {
+        "L1": "DTS (SNP) (202)",
+        "L2": "CAE (NVL) (202)",
+        "L3": "AI&ML (DDK) (202)",
+        "L4": "EL-II (NSG) (202)",
+        "L5": "TB1-AI&ML(DDK)(208)TB2-CAE(NVL)(208)TB3-DTS(SNP)(202)TB4-ML(VVA)(207)",
+        "L6": "TB1-AI&ML(DDK)(208)TB2-CAE(NVL)(208)TB3-DTS(SNP)(202)TB4-ML(VVA)(207)"
+    },
+    {
+        "L1": "CAE (NVL) (202)",
+        "L2": "EL-II (NSG) (202)",
+        "L3": "EV (SBS) (201)",
+        "L4": "EV (SBS) (201)",
+        "L5": "MENTOR",
+        "L6": "MENTOR"
+    },
+    {
+        "L1": "internship / Mini project",
+        "L2": "internship / Mini project",
+        "L3": "internship / Mini project",
+        "L4": "internship / Mini project",
+        "L5": "internship / Mini project",
+        "L6": "internship / Mini project"
+    },
+    {
+        "L1": "TB1-CAE(NVL)(208)TB2-DTS(SNP)(203)TB3-ML(PCS)(207)TB4-FP&CL(NSG)(408)",
+        "L2": "TB1-CAE(NVL)(208)TB2-DTS(SNP)(203)TB3-ML(PCS)(207)TB4-FP&CL(NSG)(408)",
+        "L3": "EV (SBS) (201)",
+        "L4": "EV (SBS) (201)",
+        "L5": "MESA",
+        "L6": "MESA"
+    },
+    {
+        "L1": "EL-II (NSG) (202)",
+        "L2": "CAE (NVL) (202)",
+        "L3": "DTS (SNP) (202)",
+        "L4": "AI&ML (DDK) (202)",
+        "L5": "TB1-ML(PCS)(207)TB2-FP&CL(NSG)(408)TB3-AI&ML(DDK)(208)TB4-CAE(NVL)(208)",
+        "L6": "TB1-ML(PCS)(207)TB2-FP&CL(NSG)(408)TB3-AI&ML(DDK)(208)TB4-CAE(NVL)(208)"
+    },
+    {
+        "L1": "TB1-FP&CL(YBC)(408)TB2-AI&ML(DDK)(208)TB3-CAE(NVL)(208)TB4-DTS(SNP)(107)",
+        "L2": "TB1-FP&CL(YBC)(408)TB2-AI&ML(DDK)(208)TB3-CAE(NVL)(208)TB4-DTS(SNP)(107)",
+        "L3": "DTS (SNP) (202)",
+        "L4": "AI&ML (DDK) (202)",
+        "L5": "TB1-FP&CL(YBC)(408)TB2-AI&ML(DDK)(208)TB3-CAE(NVL)(208)TB4-DTS(SNP)(107)",
+        "L6": "TB1-FP&CL(YBC)(408)TB2-AI&ML(DDK)(208)TB3-CAE(NVL)(208)TB4-DTS(SNP)(107)"
+    }
+]
