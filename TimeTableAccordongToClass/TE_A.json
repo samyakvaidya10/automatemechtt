@@ -1,50 +1,50 @@
 [
     {
-        "l1": "PR",
-        "l2": "PR",
-        "l3": "PR",
-        "l4": "PR",
-        "l5": "AI&ML (YBC) (201)",
-        "l6": "EL-II (NSG) (201)"
+        "L1": "PR",
+        "L2": "PR",
+        "L3": "PR",
+        "L4": "PR",
+        "L5": "AI&ML (YBC) (201)",
+        "L6": "EL-II (NSG) (201)"
     },
     {
-        "l1": "TA1-CAE(NKK)(208)TA2-DTS(MSP)(201)TA3-ML(VVA)(207)TA4-FP&CL(YBC)(408)",
-        "l2": "TA1-CAE(NKK)(208)TA2-DTS(MSP)(201)TA3-ML(VVA)(207)TA4-FP&CL(YBC)(408)",
-        "l3": "EV (SBS) (201)",
-        "l4": "EV (SBS) (201)",
-        "l5": "MENTOR",
-        "l6": "MENTOR"
+        "L1": "TA1-CAE(NKK)(208)TA2-DTS(MSP)(201)TA3-ML(VVA)(207)TA4-FP&CL(YBC)(408)",
+        "L2": "TA1-CAE(NKK)(208)TA2-DTS(MSP)(201)TA3-ML(VVA)(207)TA4-FP&CL(YBC)(408)",
+        "L3": "EV (SBS) (201)",
+        "L4": "EV (SBS) (201)",
+        "L5": "MENTOR",
+        "L6": "MENTOR"
     },
     {
-        "l1": "internship / Mini project",
-        "l2": "internship / Mini project",
-        "l3": "internship / Mini project",
-        "l4": "internship / Mini project",
-        "l5": "internship / Mini project",
-        "l6": "internship / Mini project"
+        "L1": "internship / Mini project",
+        "L2": "internship / Mini project",
+        "L3": "internship / Mini project",
+        "L4": "internship / Mini project",
+        "L5": "internship / Mini project",
+        "L6": "internship / Mini project"
     },
     {
-        "l1": "AI&ML (YBC) (201)",
-        "l2": "CAE (NKK) (201)",
-        "l3": "EV (SBS) (201)",
-        "l4": "EV (SBS) (201)",
-        "l5": "MESA",
-        "l6": "MESA"
+        "L1": "AI&ML (YBC) (201)",
+        "L2": "CAE (NKK) (201)",
+        "L3": "EV (SBS) (201)",
+        "L4": "EV (SBS) (201)",
+        "L5": "MESA",
+        "L6": "MESA"
     },
     {
-        "l1": "AI&ML (YBC) (201)",
-        "l2": "EL-II (NSG) (201)",
-        "l3": "TA1-DTS(MSP)(206)TA2-ML(VVA)(207)TA3-FP&CL(NSG)(408)TA4-AI&ML(YBC)(208)",
-        "l4": "TA1-DTS(MSP)(206)TA2-ML(VVA)(207)TA3-FP&CL(NSG)(408)TA4-AI&ML(YBC)(208)",
-        "l5": "DTS (MSP) (201)",
-        "l6": "CAE (NKK) (201)"
+        "L1": "AI&ML (YBC) (201)",
+        "L2": "EL-II (NSG) (201)",
+        "L3": "TA1-DTS(MSP)(206)TA2-ML(VVA)(207)TA3-FP&CL(NSG)(408)TA4-AI&ML(YBC)(208)",
+        "L4": "TA1-DTS(MSP)(206)TA2-ML(VVA)(207)TA3-FP&CL(NSG)(408)TA4-AI&ML(YBC)(208)",
+        "L5": "DTS (MSP) (201)",
+        "L6": "CAE (NKK) (201)"
     },
     {
-        "l1": "DTS (MSP) (201)",
-        "l2": "CAE (NKK) (201)",
-        "l3": "TA1-ML(VVA)(207)TA2-FP&CL(NSG)(408)TA3-AI&ML(YBC)(208)TA4-CAE(NKK)(208)",
-        "l4": "TA1-ML(VVA)(207)TA2-FP&CL(NSG)(408)TA3-AI&ML(YBC)(208)TA4-CAE(NKK)(208)",
-        "l5": "DTS (MSP) (201)",
-        "l6": "EL-II (NSG) (201)"
+        "L1": "DTS (MSP) (201)",
+        "L2": "CAE (NKK) (201)",
+        "L3": "TA1-ML(VVA)(207)TA2-FP&CL(NSG)(408)TA3-AI&ML(YBC)(208)TA4-CAE(NKK)(208)",
+        "L4": "TA1-ML(VVA)(207)TA2-FP&CL(NSG)(408)TA3-AI&ML(YBC)(208)TA4-CAE(NKK)(208)",
+        "L5": "DTS (MSP) (201)",
+        "L6": "EL-II (NSG) (201)"
     }
 ]
