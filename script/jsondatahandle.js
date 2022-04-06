@@ -1,3 +1,4 @@
+//Assigning URLs
 var url
 function SE(div){
    if(div=="A"){
@@ -25,6 +26,8 @@ function BE(div){
 //Used for retrive key of upcoming lectures
 var keysname=["L1","L2","recs","L3","L4","recb","L5","L6"]
 
+
+//For reading JSON files 
 async function main(div){
 
     
@@ -39,10 +42,6 @@ async function main(div){
      
        const seA = JSON.parse(lectName);
        lect=seA;
-       //var keys="L2";         //testing purpose
-    
-      
-      
       if(time<9&&time>=4){
             if(time<9){
                day=day;
@@ -125,19 +124,3 @@ async function main(div){
 }
 
 
-
-
-// var day1=(day-1);
-// if(time<9&&time>=4){
-//    if(time<9){
-//       console.log("In morning");
-//       document.getElementById("result").innerHTML = "Yet to start...";
-//       day1=day1;
-//    }else{
-//       var lecture=lect[(day)];
-//       document.getElementById("result").innerHTML = "Done for the day...";
-//    }
-// }else{
-//       var lecture=lect[(day-1)];
-
-//    }
