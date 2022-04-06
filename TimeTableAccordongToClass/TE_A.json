@@ -8,8 +8,8 @@
         "L6": "EL-II (NSG) (201)"
     },
     {
-        "L1": "TA1-CAE(NKK)(208)TA2-DTS(MSP)(201)TA3-ML(VVA)(207)TA4-FP&CL(YBC)(408)",
-        "L2": "TA1-CAE(NKK)(208)TA2-DTS(MSP)(201)TA3-ML(VVA)(207)TA4-FP&CL(YBC)(408)",
+        "L1": "TA1-CAE(NKK)(208) TA2-DTS(MSP)(201) TA3-ML(VVA)(207) TA4-FP&CL(YBC)(408)",
+        "L2": "TA1-CAE(NKK)(208) TA2-DTS(MSP)(201) TA3-ML(VVA)(207) TA4-FP&CL(YBC)(408)",
         "L3": "EV (SBS) (201)",
         "L4": "EV (SBS) (201)",
         "L5": "MENTOR",
@@ -34,16 +34,16 @@
     {
         "L1": "AI&ML (YBC) (201)",
         "L2": "EL-II (NSG) (201)",
-        "L3": "TA1-DTS(MSP)(206)TA2-ML(VVA)(207)TA3-FP&CL(NSG)(408)TA4-AI&ML(YBC)(208)",
-        "L4": "TA1-DTS(MSP)(206)TA2-ML(VVA)(207)TA3-FP&CL(NSG)(408)TA4-AI&ML(YBC)(208)",
+        "L3": "TA1-DTS(MSP)(206) TA2-ML(VVA)(207) TA3-FP&CL(NSG)(408) TA4-AI&ML(YBC)(208)",
+        "L4": "TA1-DTS(MSP)(206) TA2-ML(VVA)(207) TA3-FP&CL(NSG)(408) TA4-AI&ML(YBC)(208)",
         "L5": "DTS (MSP) (201)",
         "L6": "CAE (NKK) (201)"
     },
     {
         "L1": "DTS (MSP) (201)",
         "L2": "CAE (NKK) (201)",
-        "L3": "TA1-ML(VVA)(207)TA2-FP&CL(NSG)(408)TA3-AI&ML(YBC)(208)TA4-CAE(NKK)(208)",
-        "L4": "TA1-ML(VVA)(207)TA2-FP&CL(NSG)(408)TA3-AI&ML(YBC)(208)TA4-CAE(NKK)(208)",
+        "L3": "TA1-ML(VVA)(207) TA2-FP&CL(NSG)(408) TA3-AI&ML(YBC)(208) TA4-CAE(NKK)(208)",
+        "L4": "TA1-ML(VVA)(207) TA2-FP&CL(NSG)(408) TA3-AI&ML(YBC)(208) TA4-CAE(NKK)(208)",
         "L5": "DTS (MSP) (201)",
         "L6": "EL-II (NSG) (201)"
     }
