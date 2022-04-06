@@ -16,16 +16,16 @@
         "L6": "MENTOR"
     },
     {
-        "L1": "BA1-MSD(SYP)(101)BA3-ELIII(VVS)(208)BA4-EE(VCS)(206)",
-        "L2": "BA1-MSD(SYP)(101)BA3-EL-III(VVS)(208)BA4-EE(VCS)(206)",
+        "L1": "BA1-MSD(SYP)(101) BA3-EL-III(VVS)(208) BA4-EE(VCS)(206)",
+        "L2": "BA1-MSD(SYP)(101) BA3-EL-III(VVS)(208) BA4-EE(VCS)(206)",
         "L3": "MSD (SYP) (201)",
         "L4": "PROJECT",
         "L5": "PROJECT",
         "L6": "PROJECT"
     },
     {
-        "L1": "BA2-EL-III(VVS)(208)BA3-EE(VCS)(206)BA4-MSD(SYP)(206)",
-        "L2": "BA2-EL-III(VVS)(208)BA3-EE(VCS)(206)BA4-MSD(SYP)(206)",
+        "L1": "BA2-EL-III(VVS)(208) BA3-EE(VCS)(206) BA4-MSD(SYP)(206)",
+        "L2": "BA2-EL-III(VVS)(208) BA3-EE(VCS)(206) BA4-MSD(SYP)(206)",
         "L3": "EL-III (VVS) (202)",
         "L4": "EL-IV (VVA) (202)",
         "L5": "MESA",
@@ -34,16 +34,16 @@
     {
         "L1": "EE (VCS) (101)",
         "L2": "EL-IV (VVA) (101)",
-        "L3": "BA1-EE(VCS)(206)BA2-MSD(SYP)(203)BA4-EL-III(VVS)(208)",
-        "L4": "BA1-EE(VCS)(206)BA2-MSD(SYP)(203)BA4-EL-III(VVS)(208)",
+        "L3": "BA1-EE(VCS)(206) BA2-MSD(SYP)(203) BA4-EL-III(VVS)(208)",
+        "L4": "BA1-EE(VCS)(206) BA2-MSD(SYP)(203) BA4-EL-III(VVS)(208)",
         "L5": "MSD (SYP) (102)",
         "L6": "EL-III (VVS) (102)"
     },
     {
         "L1": "EL-III (VVS) (202)",
         "L2": "MSD (SYP) (202)",
-        "L3": "BA1-EL-III(VVS)(206)BA2-EE(VCS)(206)BA3-MSD(SYP)(203)",
-        "L4": "BA1-EL-III(VVS)(206)BA2-EE(VCS)(206)BA3-MSD(SYP)(203)",
+        "L3": "BA1-EL-III(VVS)(206) BA2-EE(VCS)(206) BA3-MSD(SYP)(203)",
+        "L4": "BA1-EL-III(VVS)(206) BA2-EE(VCS)(206) BA3-MSD(SYP)(203)",
         "L5": "EL-IV (VVA) (102)",
         "L6": "EE (VCS) (102)"
     }

@@ -14,7 +14,7 @@ function onGoingLec(time,min){
      //For tea recess & 3rd lect
     else if (time==11) {
         if(min<15){
-            lec="recS"; 
+            lec="recs"; 
         }else{
             lec="L3";
         }
@@ -22,7 +22,7 @@ function onGoingLec(time,min){
     //For 3rd & 4th lect
     else if (time==12) {
         if(min<15){
-            lec="recS"; 
+            lec="L3"; 
         }else{
             lec="L4";
         }
@@ -30,9 +30,9 @@ function onGoingLec(time,min){
     //For 4rd & lunch time
     else if (time==1) {
         if(min<15){
-            lec="rec4"; 
+            lec="L4"; 
         }else{
-            lec="recB";
+            lec="recb";
         }
     }
     else if (time>=2&&time<3) {
@@ -40,6 +40,12 @@ function onGoingLec(time,min){
     }
     else if (time>=3&&time<4) {
         lec="L6"; 
+    }else if(time<9&&time>=4){
+        if(time<9){
+            lec="morning";
+        }else{
+            lec="done";
+        }
      }
      return lec;
 }

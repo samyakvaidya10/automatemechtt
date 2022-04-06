@@ -4,8 +4,8 @@
         "L2": "EM-III (SDM) (102)",
         "L3": "MP (VVS) (102)",
         "L4": "KOM (SPM) (102)",
-        "L5": "SB1-FM(PST)(107)SB2-MS(SBS)(108)SB3-EM-III(SDM)(102)SB4-KOM(SPM)(203)",
-        "L6": "SB1-FM(PST)(107)SB2-MS(SBS)(108)SB3-EM-III(SDM)(102)SB4-KOM(SPM)(203)"
+        "L5": "SB1-FM(PST)(107) SB2-MS(SBS)(108) SB3-EM-III(SDM)(102) SB4-KOM(SPM)(203)",
+        "L6": "SB1-FM(PST)(107) SB2-MS(SBS)(108) SB3-EM-III(SDM)(102) SB4-KOM(SPM)(203)"
     },
     {
         "L1": "PBL",
@@ -16,16 +16,16 @@
         "L6": "MENTOR"
     },
     {
-        "L1": "SB1-KOM(SPM)(203)SB2-AT(RST)(106)SB3-FM(PST)(107)SB4-MS(SBS)(108)",
-        "L2": "SB1-KOM(SPM)(203)SB2-AT(RST)(106)SB3-FM(PST)(107)SB4-MS(SBS)(108)",
+        "L1": "SB1-KOM(SPM)(203) SB2-AT(RST)(106) SB3-FM(PST)(107) SB4-MS(SBS)(108)",
+        "L2": "SB1-KOM(SPM)(203) SB2-AT(RST)(106) SB3-FM(PST)(107) SB4-MS(SBS)(108)",
         "L3": "MP (VVS) (102)",
         "L4": "OFF",
         "L5": "OFF",
         "L6": "OFF"
     },
     {
-        "L1": "SB1-AT(RST)(106)SB2-FM(PST)(107)SB3-MS(SBS)(108)SB4-EM-III(SDM)(102)",
-        "L2": "SB1-AT(RST)(106)SB2-FM(PST)(107)SB3-MS(SBS)(108)SB4-EM-III(SDM)(102)",
+        "L1": "SB1-AT(RST)(106) SB2-FM(PST)(107) SB3-MS(SBS)(108) SB4-EM-III(SDM)(102)",
+        "L2": "SB1-AT(RST)(106) SB2-FM(PST)(107) SB3-MS(SBS)(108) SB4-EM-III(SDM)(102)",
         "L3": "AT (RST) (102)",
         "L4": "EM-III (SDM) (102)",
         "L5": "MESA",
@@ -36,15 +36,15 @@
         "L2": "KOM (SPM) (102)",
         "L3": "AT (RST) (102)",
         "L4": "EM-III (SDM) (102)",
-        "L5": "SB1-EM-III(SDM)(206)SB2-KOM(SPM)(203)SB3-AT(RST)(106)SB4-FM(PST)(107)",
-        "L6": "SB1-EM-III(SDM)(206)SB2-KOM(SPM)(203)SB3-AT(RST)(106)SB4-FM(PST)(107)"
+        "L5": "SB1-EM-III(SDM)(206) SB2-KOM(SPM)(203) SB3-AT(RST)(106) SB4-FM(PST)(107)",
+        "L6": "SB1-EM-III(SDM)(206) SB2-KOM(SPM)(203) SB3-AT(RST)(106) SB4-FM(PST)(107)"
     },
     {
         "L1": "AT (RST) (102)",
         "L2": "MP (VVS) (102)",
         "L3": "KOM (SPM) (102)",
         "L4": "FM (PST) (102)",
-        "L5": "SB1-MS(SBS)(108)SB2-EM-III(SDM)(206)SB3-KOM(SPM)(203)SB4-AT(RST)(106)",
-        "L6": "SB1-MS(SBS)(108)SB2-EM-III(SDM)(206)SB3-KOM(SPM)(203)SB4-AT(RST)(106)"
+        "L5": "SB1-MS(SBS)(108) SB2-EM-III(SDM)(206) SB3-KOM(SPM)(203) SB4-AT(RST)(106)",
+        "L6": "SB1-MS(SBS)(108) SB2-EM-III(SDM)(206) SB3-KOM(SPM)(203) SB4-AT(RST)(106)"
     }
 ]
