@@ -1,0 +1,3 @@
+# simplifiedmechanicaltimetable
+Going through the daily schedule of lectures that are going to be conducted is a very boring, time-consuming, and repetitive task.  Therefore the solution to this problem is to create an web application that will tell the user about ongoing and upcoming lectures, and an entire daytime table in just on few clicks. How it works:- 1. When the page gets loaded for the first time, JavaScript reads the day and time from the browser. 2. The user selects the appropriate division and academic year.   3. As per day, time, and user input JavaScript reads the corresponding JSON file and displays the lecture name on the screen.
+![image](https://user-images.githubusercontent.com/99262565/194770608-acea1e26-4f07-42d2-bc4e-d709fef7edb3.png)
