@@ -33,7 +33,7 @@ async function main(div){
     
    var lect;
 
-       console.log(url);
+
        const requestURL = url;
        const request = new Request(requestURL);
        
@@ -42,26 +42,26 @@ async function main(div){
      
        const seA = JSON.parse(lectName);
        lect=seA;
-      if(time<9&&time>=4){
+       console.log(lect);
+      if(time<9&&time>=4||time>=16){
             if(time<9){
                day=day;
-               console.log("In morning");
                document.getElementById("result").innerHTML = "Yet to start...";
             }else{
                day++;
                document.getElementById("result").innerHTML = "Done for the day...";
             }
+         }else if(day===0){
+            document.getElementById("result").innerHTML = "Sunday!! Enjoy Holiday...";
          }else{
              day=day;  
          }
+      
 
       var lecture=lect[day-1];
-
       var keys=onGoingLec(time,min);
-      console.log(lecture);
+
       
-      console.log("tt"  +time);
-      console.log(keys);
    if(keys=="morning"){
 
    }else if(keys=="done"){
@@ -74,7 +74,7 @@ async function main(div){
    else{
       console.log(keys);
       var show=(lecture[keys]).split(" "); 
-      
+      console.log(show)
       let text="";
       for(let i=0;i<show.length;i++){
         text=text+show[i]+"<br>";

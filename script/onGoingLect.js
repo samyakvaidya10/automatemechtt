@@ -28,14 +28,15 @@ function onGoingLec(time,min){
         }
     }
     //For 4rd & lunch time
-    else if (time==1) {
+    else if (time==1||time==13) {
         if(min<15){
             lec="L4"; 
         }else{
             lec="recb";
         }
     }
-    else if (time>=2&&time<3) {
+    else if (time>=2&&time<3||time>=14&&time<15) {
+        console.log("hh")
         lec="L5"; 
     }
     else if (time>=3&&time<4) {

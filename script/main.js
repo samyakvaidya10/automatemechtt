@@ -26,7 +26,6 @@ function getSE(){
     document.getElementById("te").style.fontSize="small";
     document.getElementById("be").style.fontSize="small";
     document.getElementById("entireday").style.display="none";
-
     SE(div);
 }
 function getTE(){
